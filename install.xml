@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" client="both" type="language" method="upgrade">
+  <name>Georgian language pack for K2</name>
+  <author>Gocha Gochitashvili</author>
+  <authorEmail>welcome@joomla.ge</authorEmail>
+  <authorUrl>joomla.ge</authorUrl>
+  <creationDate>October 13, 2016</creationDate>
+  <copyright>Copyright (c) 2006 - 2011 JoomlaWorks Ltd. All rights reserved.</copyright>
+  <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+  <version>2.5.0</version>
+  <description>Georgian language pack for K2</description>
+  <tag>ka-GE</tag>
+  <administration>
+    <files folder="administrator">
+      <filename>ka-GE.com_k2.ini</filename>
+      <filename>ka-GE.com_k2.j16.ini</filename>
+      <filename>ka-GE.com_k2.menu.ini</filename>
+      <filename>ka-GE.com_k2.sys.ini</filename>
+      <filename>ka-GE.mod_k2.j16.ini</filename>
+      <filename>ka-GE.mod_k2_quickicons.ini</filename>
+      <filename>ka-GE.mod_k2_quickicons.sys.ini</filename>
+      <filename>ka-GE.mod_k2_stats.ini</filename>
+      <filename>ka-GE.mod_k2_stats.sys.ini</filename>
+      <filename>ka-GE.plg_finder_k2.ini</filename>
+      <filename>ka-GE.plg_finder_k2.sys.ini</filename>
+      <filename>ka-GE.plg_search_k2.ini</filename>
+      <filename>ka-GE.plg_search_k2.sys.ini</filename>
+      <filename>ka-GE.plg_system_k2.ini</filename>
+      <filename>ka-GE.plg_system_k2.sys.ini</filename>
+      <filename>ka-GE.plg_user_k2.ini</filename>
+      <filename>ka-GE.plg_user_k2.sys.ini</filename>
+    </files>
+  </administration>
+  <site>
+    <files folder="site">
+      <filename>ka-GE.com_k2.ini</filename>
+      <filename>ka-GE.mod_k2_comments.ini</filename>
+      <filename>ka-GE.mod_k2_comments.sys.ini</filename>
+      <filename>ka-GE.mod_k2_content.ini</filename>
+      <filename>ka-GE.mod_k2_content.sys.ini</filename>
+      <filename>ka-GE.mod_k2_tools.ini</filename>
+      <filename>ka-GE.mod_k2_tools.sys.ini</filename>
+      <filename>ka-GE.mod_k2_user.ini</filename>
+      <filename>ka-GE.mod_k2_users.ini</filename>
+      <filename>ka-GE.mod_k2_users.sys.ini</filename>
+      <filename>ka-GE.mod_k2_user.sys.ini</filename>
+    </files>
+  </site>
+</install>
